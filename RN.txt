@@ -1,0 +1,43 @@
+1.ReactNative lifecycle
+2. Redux
+3. Context Api
+4. React Hooks
+5. Higher order components (HOC)
+6. Es5 vs Es6 and more
+7. Passing props from parent to child and vice versa.
+8. callback vs promises vs Async/Await
+9. local storage / Aysnc storage.
+10. JavaScript Array handling.
+11. Handling Notifications.
+12. Firebase Analytics.
+13. uploading to store.
+14. React navigation / Router
+15. Design principles.
+16. Redux- saga vs Redux thunk
+17. Redux logger middlewares
+18. Generator functions.
+19. Basic Programs
+20. Virtual Dom in RN
+21. Pure functions
+22. Pure Components
+23.call by value and call by Reference
+24. Threads
+25. Native bridging
+26. Internal working of JS 
+27. Yarn vs Npm
+28. Webpack and Babel
+29. Callback hell
+30.Hermes
+31.JSX
+32.Watchman
+33.class Components vs Functional components
+34.Js concepts *
+35.AppRegistry
+36.Internals of JS
+37.controlled vs uncontrolled components
+38.limitations of Reactnative
+39. Unit testing (Jest)
+40.Oops concepts
+41. Data structures including time and space complexity
+42.AndroidX / jetifier
+43Event loop in JavaScript
